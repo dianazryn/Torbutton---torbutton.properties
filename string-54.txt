@@ -1,0 +1,12 @@
+* Tor Project / Torbutton - torbutton.properties / string 54 *
+
+ORIGINAL TEXT
+-------------
+Unable to configure Tor with your key
+
+TRANSLATION
+-----------
+Не удается настроить Tor с вашим ключом
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
