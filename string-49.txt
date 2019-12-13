@@ -1,0 +1,12 @@
+* Tor Project / Torbutton - torbutton.properties / string 49 *
+
+ORIGINAL TEXT
+-------------
+%S is requesting your private key.
+
+TRANSLATION
+-----------
+%S запрашивает ваш закрытый ключ.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
